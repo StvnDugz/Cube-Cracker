@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a5bb32c8d5367e84fa81a45e312c1aa1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Future Worlds
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9168dd384a1fb984799844ed5b18e773, type: 3}
+  - {fileID: 12800000, guid: 953bcdb3ec746ce408aa723748e2473a, type: 3}
+  - {fileID: 12800000, guid: d47ca8bf4bcf00d45b6b20ad0ced5b56, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
