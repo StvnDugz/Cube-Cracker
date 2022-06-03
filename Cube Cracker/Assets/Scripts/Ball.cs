@@ -25,7 +25,7 @@ public class Ball : MonoBehaviour
             rb.isKinematic = false;
             hitSound.pitch = Random.Range(LowPitch, HighPitch);
             hitSound.Play();
-            rb.AddForce(new Vector3(ballInitialVelocity, ballInitialVelocity, 0));
+            rb.AddForce(new Vector3(Random.Range(-600f, 600f), ballInitialVelocity, 0));
         }
     }
     void OnCollisionEnter(Collision other)
